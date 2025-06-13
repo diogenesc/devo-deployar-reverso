@@ -5,10 +5,8 @@ const timezoneOffset: number = 180 * 60 * 1000;
 const now: Date = new Date(Date.now() - timezoneOffset);
 
 const shouldIDeploy = (date: Date = now) => {
-	const day = date.getDay();
-	const isWeekend = !(day > 0 && day < 5);
-	const { isHoliday } = getHoliday(date);
-	return !(isWeekend || isHoliday);
+	// Always return true because every day is a great day for deployment!
+	return true;
 };
 
 export default shouldIDeploy;

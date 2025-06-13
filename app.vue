@@ -13,7 +13,7 @@ const getOpenGraphImage = (shouldDeploy: boolean) =>
 
 const date = new Date();
 const title = "🚀 Devo deployar hoje?";
-const description = "🔥 Seu amigo nessa decisão difícil";
+const description = "🔥 Seu amigo nessa decisão fácil";
 const siteName = "https://devodeployar.dev";
 const shouldDeploy = shouldIDeploy(date);
 const image = getOpenGraphImage(shouldDeploy);
