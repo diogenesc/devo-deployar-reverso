@@ -1,6 +1,6 @@
-# Devo deployar hoje? <a href="https://devodeployar.dev">![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)</a>
+# Devo deployar hoje? <a href="https://devo-deployar-reverso.vercel.app">![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)</a>
 
-Um auxiliar para que você tome esta crucial decisão. Esse projeto é uma sátira e não deve ser levado a sério ─ ou talvez deva? 
+Um auxiliar para que você tome esta crucial decisão. Esse projeto é uma sátira e não deve ser levado a sério ─ ou talvez deva?
 ![](./public/no.png)
 
 ## Tabela de conteúdos
@@ -20,16 +20,16 @@ Esse projeto utiliza:
 
 ## Features
 
-O projeto conta com uma [rota de API](https://devodeployar.dev/api) que retorna um emoji, uma mensagem, um boolean `shouldIDeploy` e o timestamp da requisição. No momento, além dos dias comuns da semana, alguns feriados (como Natal, Páscoa e Independência) estão inclusos com mensagens especiais. Há também o front-end, que possui apenas uma tela que apresenta o resultado da chamada da API de forma bonita e alguns links importantes.
+O projeto conta com uma [rota de API](https://devo-deployar-reverso.vercel.app/api) que retorna um emoji, uma mensagem, um boolean `shouldIDeploy` e o timestamp da requisição. No momento, além dos dias comuns da semana, alguns feriados (como Natal, Páscoa e Independência) estão inclusos com mensagens especiais. Há também o front-end, que possui apenas uma tela que apresenta o resultado da chamada da API de forma bonita e alguns links importantes.
 
 ## Instruções de execução
 
 ```bash
 # Clone o projeto
-$ git clone https://github.com/medeirotech/devodeployar.git
+$ git clone https://github.com/diogenesc/devo-deployar-reverso.git
 
 # Acesse a pasta
-$ cd devodeployar
+$ cd devo-deployar-reverso
 
 # Instale as dependências
 $ npm install

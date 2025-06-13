@@ -9,12 +9,12 @@
 import shouldIDeploy from "./server/utils/shouldIDeploy";
 
 const getOpenGraphImage = (shouldDeploy: boolean) =>
-	"https://devodeployar.dev" + (shouldDeploy ? "/yes.png" : "/no.png");
+	"https://devo-deployar-reverso.vercel.app/" + (shouldDeploy ? "/yes.png" : "/no.png");
 
 const date = new Date();
 const title = "🚀 Devo deployar hoje?";
 const description = "🔥 Seu amigo nessa decisão fácil";
-const siteName = "https://devodeployar.dev";
+const siteName = "https://devo-deployar-reverso.vercel.app/";
 const shouldDeploy = shouldIDeploy(date);
 const image = getOpenGraphImage(shouldDeploy);
 

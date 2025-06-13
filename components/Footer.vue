@@ -7,18 +7,10 @@
 				</li>
 				<li>
 					<a
-						href="https://github.com/medeirotech/devodeployar"
+						href="https://github.com/diogenesc/devo-deployar-reverso"
 						target="_blank"
 						rel="noopener noreferrer"
 						>GitHub</a
-					>
-				</li>
-				<li>
-					<a
-						href="https://discord.gg/k6hFV5HxMv"
-						target="_blank"
-						rel="noopener noreferrer"
-						>Entre na Coitados Tech!</a
 					>
 				</li>
 			</ul>

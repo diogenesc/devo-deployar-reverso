@@ -1,6 +1,6 @@
 # Contribua com o Devo Deployar
 
-Você quer contribuir? Ótimo! Lembre-se de dar uma olhada nas [issues abertas](https://github.com/medeirotech/devodeployar/issues) (caso haja alguma). Para contribuir, você pode:
+Você quer contribuir? Ótimo! Lembre-se de dar uma olhada nas [issues abertas](https://github.com/diogenesc/devo-deployar-reverso/issues) (caso haja alguma). Para contribuir, você pode:
 
 - Reportar um problema/bug.
 - Discutir a respeito das issues atuais e possíveis novas features.
@@ -16,6 +16,6 @@ O projeto utiliza o guideline de commit do [Angular](https://github.com/angular/
 
 Para enviar novos [Pull Requests](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests):
 
-1. Faça um fork do [repositório](https://github.com/medeirotech/devodeployar)
+1. Faça um fork do [repositório](https://github.com/diogenesc/devo-deployar-reverso)
 2. Adicione suas mudanças e features novas
 3. Crie um pull request e aguarde o review
